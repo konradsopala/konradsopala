@@ -1,1 +1,1 @@
-![](/Assets/Banner.png)
+![](/Assets/Banner.jpg)
