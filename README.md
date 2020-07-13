@@ -1,6 +1,6 @@
 # Hey Everyone! 🤜🏼 🤛🏻
 
-![](https://github.com/konradsopala/konradsopala/blob/master/BannerTwo.jpg)
+![](https://github.com/konradsopala/konradsopala/blob/master/Banner.jpg)
 
 I'm a Senior Developer Community Engineer at [Auth0](https://auth0.com/). I build developer tools and apps as well as work with developer ecosystem. If you'd like to know more about my professional background visit my [github-linkedin repo](https://github.com/konradsopala/github-linkedin) or my [Linkedin profile](https://www.linkedin.com/in/konradsopala/).
 
